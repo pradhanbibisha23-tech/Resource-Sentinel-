@@ -34,10 +34,10 @@ Action – Generate alerts and create logs.
 
 Future Improvements
 
-GUI dashboard
-Email notifications
-Advanced analytics
-Automated resource management
+GUI dashboard,
+ Email notifications,
+ Advanced analytics,
+ Automated resource management
 
 Author
 
